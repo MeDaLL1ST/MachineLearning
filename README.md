@@ -1,0 +1,3 @@
+# MachineLearning
+
+SIMPLE NEURAL NET ON JAVA
